@@ -1,4 +1,4 @@
-#[ranimg](https://github.com/ahaqcxz/api/edit/master/ran360img/index.php.git)
+# [ranimg](https://github.com/ahaqcxz/api/ran360img#ranimg)
 随机输出一张来自360图片的图片，分辨率为1920*1080
 
 随机动漫图片：http://域名/index.php?type=类型
